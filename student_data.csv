@@ -1,0 +1,11 @@
+Gender,Study_Hours,Attendance,Previous_Marks,Internet_Access,Extra_Classes,Performance
+Female,5,85,78,Yes,Yes,Good
+Male,2,60,55,No,No,Average
+Female,7,90,88,Yes,Yes,Excellent
+Male,1,45,40,No,No,Poor
+Female,4,75,70,Yes,No,Good
+Male,3,65,60,Yes,No,Average
+Female,8,95,92,Yes,Yes,Excellent
+Male,2,50,48,No,No,Poor
+Female,6,88,82,Yes,Yes,Good
+Male,4,70,68,Yes,No,Average
